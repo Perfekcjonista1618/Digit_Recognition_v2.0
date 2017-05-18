@@ -1,0 +1,10 @@
+C:\Users\Jacek\Documents\GitHub\Digit_Recognition_v2.0\Digit_Recognition_v2.0\Digit_Recognition_v2.0\bin\Debug\Digit_Recognition_v2.0.exe.config
+C:\Users\Jacek\Documents\GitHub\Digit_Recognition_v2.0\Digit_Recognition_v2.0\Digit_Recognition_v2.0\obj\Debug\Digit_Recognition_v2.0.csprojResolveAssemblyReference.cache
+C:\Users\Jacek\Documents\GitHub\Digit_Recognition_v2.0\Digit_Recognition_v2.0\Digit_Recognition_v2.0\obj\Debug\Digit_Recognition_v2._0.Form1.resources
+C:\Users\Jacek\Documents\GitHub\Digit_Recognition_v2.0\Digit_Recognition_v2.0\Digit_Recognition_v2.0\obj\Debug\Digit_Recognition_v2._0.Properties.Resources.resources
+C:\Users\Jacek\Documents\GitHub\Digit_Recognition_v2.0\Digit_Recognition_v2.0\Digit_Recognition_v2.0\obj\Debug\Digit_Recognition_v2.0.csproj.GenerateResource.Cache
+C:\Users\Jacek\Documents\GitHub\Digit_Recognition_v2.0\Digit_Recognition_v2.0\Digit_Recognition_v2.0\bin\Debug\Digit_Recognition_v2.0.exe
+C:\Users\Jacek\Documents\GitHub\Digit_Recognition_v2.0\Digit_Recognition_v2.0\Digit_Recognition_v2.0\bin\Debug\Digit_Recognition_v2.0.pdb
+C:\Users\Jacek\Documents\GitHub\Digit_Recognition_v2.0\Digit_Recognition_v2.0\Digit_Recognition_v2.0\bin\Debug\FANNCSharp.dll
+C:\Users\Jacek\Documents\GitHub\Digit_Recognition_v2.0\Digit_Recognition_v2.0\Digit_Recognition_v2.0\obj\Debug\Digit_Recognition_v2.0.exe
+C:\Users\Jacek\Documents\GitHub\Digit_Recognition_v2.0\Digit_Recognition_v2.0\Digit_Recognition_v2.0\obj\Debug\Digit_Recognition_v2.0.pdb
